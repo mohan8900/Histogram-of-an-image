@@ -23,8 +23,8 @@ cv2.equalize() is used to transform the gray image to equalized form.
 The Histogram of gray scale image and color image is shown.
 
 ## Program:
-### Developed By: Sherwin Roger R.D
-### Register Number: 212220230046
+### Developed By: A K MOHAN RAJ
+### Register Number: 212221230064
 
 ### a) Write your code to find the histogram of gray scale image and color image channels.
 ```python
